@@ -1,1 +1,1 @@
-FROM quay.io/coreos/flannel:v0.11.0-arm
+FROM gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.10.0
